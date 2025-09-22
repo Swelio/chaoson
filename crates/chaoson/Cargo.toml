@@ -1,0 +1,12 @@
+[package]
+authors.workspace    = true
+edition              = "2024"
+license.workspace    = true
+name                 = "chaoson"
+repository.workspace = true
+version.workspace    = true
+
+[lints]
+workspace = true
+
+[dependencies]
